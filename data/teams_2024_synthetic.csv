@@ -1,0 +1,65 @@
+team,region,seed,slot,adj_oe,adj_de,tempo,public_pick_pct,actual_round
+UConn,East,1,1,126.5,91.2,64.6,24.7,Champion
+Stetson,East,16,2,103.0,110.5,67.2,0.0,R64
+Florida Atlantic,East,8,3,117.5,99.1,66.4,1.3,R64
+Northwestern,East,9,4,113.0,99.0,63.9,0.4,R32
+San Diego State,East,5,5,112.6,93.8,64.8,2.0,S16
+UAB,East,12,6,109.3,104.6,70.0,0.2,R64
+Auburn,East,4,7,120.8,91.8,69.1,7.3,R64
+Yale,East,13,8,108.0,101.4,65.2,0.2,R32
+BYU,East,6,9,117.3,96.2,70.2,1.7,R64
+Duquesne,East,11,10,106.5,99.6,65.4,0.2,R32
+Illinois,East,3,11,126.0,101.2,70.7,5.1,E8
+Morehead State,East,14,12,105.4,102.9,64.8,0.0,R64
+Washington State,East,7,13,112.2,95.8,65.6,0.5,R64
+Drake,East,10,14,116.0,101.0,66.7,0.4,R64
+Iowa State,East,2,15,114.8,86.4,67.6,9.1,S16
+South Dakota State,East,15,16,108.7,108.2,68.8,0.0,R64
+North Carolina,West,1,17,120.1,92.8,70.0,12.2,S16
+Wagner,West,16,18,98.5,105.6,64.0,0.0,R64
+Mississippi State,West,8,19,111.8,95.7,66.5,0.6,R64
+Michigan State,West,9,20,111.9,93.6,63.2,1.1,R32
+Saint Mary's,West,5,21,114.5,89.7,61.5,3.1,R64
+Grand Canyon,West,12,22,111.2,96.6,67.0,0.3,R32
+Alabama,West,4,23,125.4,105.4,73.2,3.9,F4
+Charleston,West,13,24,113.1,106.2,69.8,0.1,R64
+Clemson,West,6,25,114.7,96.8,66.8,0.7,E8
+New Mexico,West,11,26,113.0,94.8,71.0,0.9,R64
+Baylor,West,3,27,121.2,100.2,66.7,4.0,R32
+Colgate,West,14,28,104.2,101.7,64.6,0.0,R64
+Dayton,West,7,29,115.9,99.4,64.1,0.5,R32
+Nevada,West,10,30,113.6,96.7,67.2,0.4,R64
+Arizona,West,2,31,121.8,94.2,72.1,8.7,S16
+Long Beach State,West,15,32,104.7,110.7,72.4,0.0,R64
+Houston,South,1,33,119.5,85.8,63.3,15.0,S16
+Longwood,South,16,34,103.7,107.7,66.0,0.0,R64
+Nebraska,South,8,35,114.4,98.9,67.8,0.5,R64
+Texas A&M,South,9,36,111.0,96.7,67.7,0.8,R32
+Wisconsin,South,5,37,117.9,99.6,65.1,2.2,R64
+James Madison,South,12,38,111.4,98.7,68.5,0.4,R32
+Duke,South,4,39,121.0,95.3,66.1,6.8,E8
+Vermont,South,13,40,106.0,99.7,63.8,0.1,R64
+Texas Tech,South,6,41,116.2,99.7,65.4,1.1,R64
+NC State,South,11,42,111.6,99.6,67.3,0.3,F4
+Kentucky,South,3,43,123.2,103.7,70.2,6.1,R64
+Oakland,South,14,44,107.2,104.9,66.9,0.1,R32
+Florida,South,7,45,119.9,101.1,70.8,1.2,R64
+Colorado,South,10,46,119.1,101.0,68.1,0.6,R32
+Marquette,South,2,47,119.3,95.4,69.3,5.4,S16
+Western Kentucky,South,15,48,105.8,107.0,72.6,0.0,R64
+Purdue,Midwest,1,49,126.2,94.0,67.8,18.5,Final
+Grambling State,Midwest,16,50,99.7,106.8,66.0,0.0,R64
+Utah State,Midwest,8,51,113.8,97.8,68.2,0.4,R64
+TCU,Midwest,9,52,114.0,97.1,69.9,0.5,R32
+Gonzaga,Midwest,5,53,120.2,96.8,70.9,5.0,S16
+McNeese,Midwest,12,54,111.7,94.7,68.0,0.4,R64
+Kansas,Midwest,4,55,115.4,96.3,68.0,3.6,R32
+Samford,Midwest,13,56,108.3,101.3,72.8,0.1,R64
+South Carolina,Midwest,6,57,109.6,94.6,65.7,0.4,R64
+Oregon,Midwest,11,58,113.4,99.2,67.2,0.3,R32
+Creighton,Midwest,3,59,121.5,96.4,66.6,6.4,S16
+Akron,Midwest,14,60,105.1,103.2,66.4,0.0,R64
+Texas,Midwest,7,61,115.0,96.9,66.5,0.7,R32
+Colorado State,Midwest,10,62,113.0,95.0,64.5,0.3,R64
+Tennessee,Midwest,2,63,116.9,89.9,67.0,7.8,E8
+Saint Peter's,Midwest,15,64,100.8,105.5,64.6,0.0,R64

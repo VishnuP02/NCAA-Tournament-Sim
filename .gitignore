@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated simulation data
+outputs/*.csv
+
+# Keep example figures for the README
+!outputs/title_odds.png
+!outputs/final_four_odds.png
+!outputs/.gitkeep
